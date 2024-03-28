@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dalva\\Documents\\Unitec\\2024\\Q1 2024\\Lenguajes de Programacion\\ACP_MiniProyecto\\ACP_MiniProyecto\\ACP_MiniProyecto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dalva\\Documents\\Unitec\\2024\\Q1 2024\\Lenguajes de Programacion\\ACP_MiniProyecto\\ACP_MiniProyecto\\ACP_MiniProyecto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dalva\\Documents\\Unitec\\2024\\Q1 2024\\Lenguajes de Programacion\\ACP_MiniProyecto\\ACP_MiniProyecto\\ACP_MiniProyecto.csproj",
+        "projectName": "ACP_MiniProyecto",
+        "projectPath": "C:\\Users\\dalva\\Documents\\Unitec\\2024\\Q1 2024\\Lenguajes de Programacion\\ACP_MiniProyecto\\ACP_MiniProyecto\\ACP_MiniProyecto.csproj",
+        "packagesPath": "C:\\Users\\dalva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dalva\\Documents\\Unitec\\2024\\Q1 2024\\Lenguajes de Programacion\\ACP_MiniProyecto\\ACP_MiniProyecto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dalva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Accord.Math": {
+              "target": "Package",
+              "version": "[3.8.2-alpha, )"
+            },
+            "Accord.Statistics": {
+              "target": "Package",
+              "version": "[3.8.2-alpha, )"
+            },
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

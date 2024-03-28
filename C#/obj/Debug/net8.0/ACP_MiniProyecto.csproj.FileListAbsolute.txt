@@ -1,0 +1,56 @@
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.exe
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.deps.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.runtimeconfig.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.AssemblyInfoInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.AssemblyInfo.cs
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.csproj.CoreCompileInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.sourcelink.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\refint\ACP_MiniProyecto.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.genruntimeconfig.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ref\ACP_MiniProyecto.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.csproj.AssemblyReference.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_Mini.72D68919.Up2Date
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.exe
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.deps.json
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.runtimeconfig.json
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\ACP_MiniProyecto.pdb
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\MathNet.Numerics.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.csproj.AssemblyReference.cache
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.AssemblyInfoInputs.cache
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.AssemblyInfo.cs
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.csproj.CoreCompileInputs.cache
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.sourcelink.json
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_Mini.72D68919.Up2Date
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\refint\ACP_MiniProyecto.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.pdb
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ACP_MiniProyecto.genruntimeconfig.cache
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\obj\Debug\net8.0\ref\ACP_MiniProyecto.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.dll.config
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.Math.Core.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.Math.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.dll.config
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.Math.Core.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.Math.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\SkiaSharp.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+c:\Users\Pedro\OneDrive\Documentos\unitecclases\2024\Lenguajes\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.Statistics.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ACP_MiniProyecto\ACP_MiniProyecto\bin\Debug\net8.0\Accord.Statistics.dll

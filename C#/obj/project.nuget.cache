@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pevp9gwL7r/usURAB/PEgq8BU79r13v/O73sdqrukmR7UMZl6cqESw7L6c+Zv+7rdrg7QaVCCst9Lfz8j0RO2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalva\\Documents\\Unitec\\2024\\Q1 2024\\Lenguajes de Programacion\\ACP_MiniProyecto\\ACP_MiniProyecto\\ACP_MiniProyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalva\\.nuget\\packages\\accord\\3.8.2-alpha\\accord.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\dalva\\.nuget\\packages\\accord.math\\3.8.2-alpha\\accord.math.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\dalva\\.nuget\\packages\\accord.statistics\\3.8.2-alpha\\accord.statistics.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\dalva\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\dalva\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\dalva\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\dalva\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+  ],
+  "logs": []
+}
